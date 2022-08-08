@@ -166,13 +166,7 @@ tit4 {
 }
 
 /*---------- セクション ---------- */
-.sec02 {
-  margin: 0 0 0 0;
-	height: auto;
-	background-color: #dcdcdc;
-}
-
-.sec04 {
+.sec03 {
   margin: 0 0 0 0;
 	height: auto;
 	background-color: #dcdcdc;
@@ -185,6 +179,12 @@ tit4 {
 }
 
 .sec06 {
+  margin: 0 0 0 0;
+	height: auto;
+	background-color: #dcdcdc;
+}
+
+.sec07 {
   margin: 0 0 0 0;
 	height: auto;
 	background-color: #2857b1;
