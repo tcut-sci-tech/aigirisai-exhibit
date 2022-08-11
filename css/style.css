@@ -119,6 +119,22 @@ tit4 {
   color: #009fe8;
 }
 
+tit5 {
+  margin: 0 0 0 0;
+  position: relative;
+  font-size: 3.5vw;
+  font-weight: 800;
+  color: #000;
+}
+
+tit6 {
+  margin: 0 0 0 0;
+  position: relative;
+  font-size: 3.5vw;
+  font-weight: 800;
+  color: #dc143c;
+}
+
 /*---------- ボタン ---------- */
 .btn06{
   position: relative;
@@ -253,7 +269,7 @@ tit4 {
 
 .b_div {
   display: inline-block;
-  width: 90%;
+  width: 98%;
   padding:0vw;
   margin: 0vw 0vw 0vw 0vw;
 }
